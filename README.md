@@ -8,3 +8,4 @@ From user stories to use cases:
 !https://github.com/i-adopt/requirements/blob/master/from%20user%20stories%20to%20requirements.JPG
 
 User story - use case - requirement
+!https://github.com/i-adopt/requirements/blob/master/user%20story_use%20case_requirement.JPG
