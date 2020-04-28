@@ -10,8 +10,10 @@ User stories requirements will not all be terminology related. Only the ones whi
 The first step is to identify the actions (events) that are needed in order to achieve the goal of the user story. The requirements will then consist of all the resources and other conditions necessary to successfully perform the actions described in the user story. We will make a distinction between necessary requirements (without them the action cannot take place) and optional requirements, that provide additional benefits (make the user story easier to fulfill, more complete, ...). After having extracted all requirements for each of the user story we will regroup and abstract them in order to be able to define use case specific requirements.
 
 **From user stories to use cases:**
-![process](https://github.com/i-adopt/requirements/blob/master/from%20user%20stories%20to%20requirements.JPG | height=25%)
+
+<img src="https://github.com/i-adopt/requirements/blob/master/from%20user%20stories%20to%20requirements.JPG" width="50%" alt="process" />
 
 
 **User story - use case - requirement:**
-![relation](https://github.com/i-adopt/requirements/blob/master/user%20story_use%20case_requirement.JPG)
+
+<img src="https://github.com/i-adopt/requirements/blob/master/user%20story_use%20case_requirement.JPG" width="70%" alt="process" />
