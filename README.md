@@ -11,7 +11,7 @@ The first step is to identify the actions (events) that are needed in order to a
 
 **From user stories to use cases:**
 ![process](https://github.com/i-adopt/requirements/blob/master/from%20user%20stories%20to%20requirements.JPG | height=25%)
-![process](https://github.com/i-adopt/requirements/blob/master/from%20user%20stories%20to%20requirements.JPG height="25%")
+![process](https://github.com/i-adopt/requirements/blob/master/from%20user%20stories%20to%20requirements.JPG height="48" width="48")
 
 **User story - use case - requirement:**
 ![relation](https://github.com/i-adopt/requirements/blob/master/user%20story_use%20case_requirement.JPG)
