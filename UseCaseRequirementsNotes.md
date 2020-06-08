@@ -11,7 +11,7 @@
 ADDED - Requires (agreement of) top-level, domain-independent categorization scheme/ontology
 	- not required
 - Requires that the relationships be trusted
-	- required
+	- not required
 - Requires terminologies with coarse/fine granularity
 	- not required, but highly desirable
 	- the finer the granularity, the better the annotation capability
