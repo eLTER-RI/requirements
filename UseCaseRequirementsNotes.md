@@ -8,7 +8,7 @@
 	- not required to perform action, but highly desirable, esp for subsequent data discovery
 - Requires terminologies based on simple atomic terms
 	- not absolutely required, but the more atomic the structure, the better the ability to annotate accurately, so highly recommended
-ADDED - Requires (agreement of) top-level, domain-independent categorization scheme/ontology
+- ADDED - Requires (agreement of) top-level, domain-independent categorization scheme/ontology
 	- not required
 - Requires that the relationships be trusted
 	- not required
@@ -47,7 +47,7 @@ ADDED - Requires (agreement of) top-level, domain-independent categorization sch
 	- not required
 - Requires terminologies based on simple atomic terms
 	- not required, but the more atomic the structure, the better the semantic search results
-ADDED - Requires agreement of top-level, domain-independent categorization scheme/ontology
+- ADDED - Requires agreement of top-level, domain-independent categorization scheme/ontology
 	- not required
 - Requires that the relationships be trusted
 	- not required
@@ -91,7 +91,8 @@ ADDED - Requires agreement of top-level, domain-independent categorization schem
 	- yes, the more atomic the terms, the easier it is to create exact match alignments
 	- however, atomization requires selecting a system of top-level, domain-independent disjoint categories; differing top-level categorizations among data models may impede successful alignment
 	- therefore, this implicitly also requires agreement of top-level ontology
-ADDED - Requires agreement of top-level, domain-independent categorization scheme/ontology
+- ADDED - Requires agreement of top-level, domain-independent categorization scheme/ontology
+	- required
 - Requires that the relationships be trusted
 	- yes
 - Requires terminologies with coarse/fine granularity
