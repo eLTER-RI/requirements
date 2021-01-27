@@ -1,5 +1,5 @@
 # requirements
-Repository used for the LTR workplan to define terminology requirements for given use cases 
+Repository used for the eLTER workplan to define terminology requirements for given use cases 
 
 New issue tickets will be created for each individual requirement.
 
