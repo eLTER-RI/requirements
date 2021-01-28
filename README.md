@@ -3,7 +3,9 @@ Repository used for the eLTER workplan to define terminology requirements for gi
 
 New issue tickets will be created for each individual requirement.
 
-The goal is to develop a comprehensive set of terminology requirements based on the user stories submitted and on the formal use cases. As a first step we will focus on a single user story and use it to develop a method and template for deriving requirements from the other submitted user stories. We chose to start with [user story #20](https://github.com/i-adopt/users_stories/issues/20).
+The goal is to develop a comprehensive set of terminology requirements based on the user stories submitted and on the formal use cases. 
+
+As a first step we will focus on a single user story and use it to develop a method and template for deriving requirements from the other submitted user stories. 
 
 User stories requirements will not all be terminology related. Only the ones which are will be in scope for eLTER. 
 
