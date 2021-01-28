@@ -1,5 +1,5 @@
 # requirements
-Repository used for the eLTER workplan to define terminology requirements for given use cases 
+Repository used for the eLTER workplan to define terminology requirements for given use cases.  The use case document can be found here [Data and ICT Requirements](https://drive.google.com/drive/folders/1DZeZ5gTMriB4lsP5-xdR5qMRwoO4ZREF)
 
 New issue tickets will be created for each individual requirement.
 
